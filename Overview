@@ -1,0 +1,3 @@
+The Weather Dashboard is a web-based application that displays real-time weather information for user-selected locations. 
+It fetches live data from a weather API and shows current conditions such as temperature, humidity, wind speed, and weather status along with a multi-day forecast.
+The project focuses on API integration, asynchronous data handling, and responsive UI design, providing users with accurate and up-to-date weather details through an interactive interface.
